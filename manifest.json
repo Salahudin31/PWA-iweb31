@@ -1,0 +1,49 @@
+{
+  "lang": "en",
+  "name": "Welcome to iweb31",
+  "short_name": "iweb31",
+  "description": "Menjadi yang terbaik!",
+  "icons": [
+      {
+        "src": "assets/img/salahudin31-24-24.png",
+        "type": "image/png",
+        "sizes": "24x24"
+      },
+      {
+        "src": "assets/img/salahudin31-48-48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      }, 
+
+      {
+        "src": "assets/img/salahudin31-72-72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      }, 
+      {
+        "src": "assets/img/salahudin31-96-96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      }, 
+      {
+        "src": "assets/img/salahudin31-144-144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, 
+      {
+        "src": "assets/img/salahudin31-192-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }, 
+      {
+        "src": "assets/img/salahudin31-512-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }  
+      ],
+  "start_url": "/index.php",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#172035"
+}
